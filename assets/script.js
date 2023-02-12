@@ -24,4 +24,8 @@ if (randomTopic === 'HTML') {
 console.log('Here are the topics we learned through Prework:');
 listTopics()
 console.log('Which topic should we study first?');
+<<<<<<< HEAD
 selectTopic()
+=======
+selectTopic()
+>>>>>>> d76bb4450a636e33983500b9a940063cc71ed8be
